@@ -63,4 +63,4 @@ export class AuthService {
 
 const authService = new AuthService(); // here we are creating a single instance of AuthService class and above we are defining this class 
 
-export default AuthService
+export default authService
